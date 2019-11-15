@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  width: 100vw;
+  justify-content: space-evenly;
+  font-size: 2rem;
+}
+
+.navlink {
+  color: white;
+  text-decoration: none;
+}

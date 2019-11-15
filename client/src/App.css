@@ -49,19 +49,18 @@ table {
 	border-spacing: 0;
 }
 html {
-  font-size: 62.5%;;
+  font-size: 62.5%;
 }
-
 
 /* END CSS RESET */
 
+
 .App {
   text-align: center;
+  background-color: #603a34;
 }
 
-
 .App-header {
-  background-color: #603a34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -70,4 +69,3 @@ html {
   color: white;
   font-size: 3rem;
 }
-
