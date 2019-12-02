@@ -5,7 +5,7 @@ import './Navigation.css'
 const Navigation = () => {
   return (
     <div className="nav">
-      <Link className="navlink" to="/">Richy's Masterpieces</Link>
+      <Link className="title" to="/">Richy's Masterpieces</Link>
       <div>
         <Link className="navlink" to="/">About</Link> 
         <Link className="navlink" to="/">Commissions</Link>

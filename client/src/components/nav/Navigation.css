@@ -3,9 +3,16 @@
   width: 100vw;
   justify-content: space-evenly;
   font-size: 2rem;
+  box-shadow: 0px 10px 5px #603a34b0;
+}
+
+.title {
+  color: white;
+  text-decoration: none;
 }
 
 .navlink {
   color: white;
   text-decoration: none;
+  margin: 2rem;
 }
